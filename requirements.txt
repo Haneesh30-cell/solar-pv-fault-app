@@ -1,4 +1,4 @@
-streamlit
+eestreamlit
 joblib
 numpy
 scikit-learn
